@@ -1,0 +1,93 @@
+Covid Trace Nevada Logo
+
+YOUR PRIVACY IS PROTECTED
+We understand how important your privacy is.
+The Exposure Notifications System was built to respect your privacy and keep you in control.
+
+You control whether you receive exposure notifications.
+This technology only works if you decide to opt-in. If you change your mind, you can turn it off at any time.
+
+The exposure notifications system doesn't track your location.
+The Exposure Notifications System does not collect or use the location from your device. It uses Bluetooth, which can be used to detect if two devices are near each other - without revealing where the devices are.
+
+Neither google, apple, nor other users can see your identity.
+All of the Exposure Notification matching happens on your device. The system does not share your identity with other users, Google, or Apple. Public health authorities may ask you for additional information, such as a phone number, to contact you with additional guidance.
+
+Only public health authorities can use this system.
+Access to the technology is only granted to apps from public health authorities. These apps must meet specific criteria around privacy, security, and data use.
+
+Download the free App today
+Download the DHHS contact tracing app to help protect your comunity while protecting your privacy.
+app store badge
+app store badge
+© Nevada Governor's Office & Nevada Department of Health and Human Services
+Privacy Statement
+Resources
+Nevada Health Logo
+Data Privacy Notice “COVID Trace” App 
+1. Introduction 
+The purpose of this privacy notice is to explain how the COVID Trace App (the ‘app’) works, 
+what data is collected by the app, who has access to that data and the purposes for which the 
+data is used. 
+The app is available to download for free from the Apple App Store and the Google Play Store. 
+Use of the app by you is completely voluntary – it is your choice to download it, your choice to 
+keep it on your device, your choice to use the different services that are available on the app, 
+and your choice to delete it. You can choose to delete any data saved by the app and/or 
+delete the app at any time.
+2. What the app does 
+The app helps support the overall national public health response to the coronavirus 
+(COVID-19) pandemic by assisting members of the public through the following functions.
+. Exposure Notification – to attempt to notify you as quickly as possible should you have been 
+in close and sustained contact with someone who has tested positive to COVID-19.
+. News and Information – to attempt to give you convenient facts and figures about COVID-19 
+in Nevada.
+. Other Functions – the app can collect metric data (see section 3.3) that is based upon 
+metrics and will remain anonymous which is used only by the State of Nevada and the 
+Department of Health and Human Services (“DHHS”) public health teams to assist in 
+monitoring how the app is contributing to the response efforts and get a better 
+understanding of the spread of the virus. It is important to know that removing the app 
+from your phone will delete all data collected. .
+3. About the COVID Trace App 
+3.1 How Exposure Notification works 
+Existing manual contact tracing processes (i.e. collecting information directly from people 
+about phone or in person contact) rely on people being able to remember who they have been 
+in contact with recently, and how long that contact lasted. In many cases people do not know 
+the identity of other people they have been in contact with (for example, if the contact 
+occurred on a bus or train, at a concert, a restaurant or some other public venue).
+4.1 The Exposure Alerts service 
+The Contact Tracing function works by enabling the Exposure Alert Service in the app. The 
+following data is processed for the operation of Exposure Alerts service if enabled: 
+. Keys sent and received between phones that have the service turned on.
+. Diagnosis keys uploaded to the State of Nevada Registry if the user is COVID-19 positive 
+and agrees to upload them.
+. Diagnosis keys downloaded from the State of Nevada Registry to all apps for matching.
+The above keys are pseudo-random alpha numeric values that cannot be used to identify any 
+user. These are generated, collected and matched on a user's phone only if the user enabled 
+the Exposure Alerts service. 
+4.2 Provided by your phone or the app 
+As a consequence of how network traffic passes across the Internet, user's Internet Protocol (IP) 
+address is also inevitably transferred to State of Nevada servers. An IP address is typically made 
+up of 4 sets of numbers (e.g. 1.2.3.4) and is assigned to each user by the user's mobile phone 
+or Wi-Fi service provider. Under the data protection law each user's IP address is generally 
+regarded as personal data.
+During the initial screens following installation, the app carries out tests to verify if the app is a 
+valid State of Nevada app and the phone is a real device. Upon confirmation, the app connects 
+to the State of Nevada servers and exchanges security tokens to protect the app from security 
+attacks. The security tokens are not used to identify users and are only utilized to verify that 
+Internet traffic coming from the app while installed and running is from a confirmed COVID 
+Tracker App running on an actual phone.
+While user data transmitted between the app and the State of Nevada servers includes the IP 
+address, the State of Nevada does not use user IP addresses to identify users. User's IP 
+addresses are removed by the State of Nevada servers upon the apps contact with the servers 
+and stored without identification to prevent abuse. The IP address information is stripped from 
+the keys and cannot be associated to the user.
+The Metric data is collected by the app and is shared with the State of Nevada as described 
+previously. 
+5. You Consent to the Collection of the Described Data 
+Use of the app is voluntary. Use of the App means that a user consents to the collection and 
+use of the data collected through keys described above. Consent is revoked by the user 
+deleting the app which will delete any key data. 
+6. Security measures
+28747732
+1.2.3.4
+4https://github.com/Exposedbyu4real/New-but-working-it-well...git
